@@ -332,3 +332,8 @@ main {
 .info a:hover {
     text-decoration: underline;
 }
+
+.true{
+    text-decoration: line-through;
+    color: #c8c8c8;
+}
